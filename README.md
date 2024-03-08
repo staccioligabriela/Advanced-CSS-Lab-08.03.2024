@@ -2,7 +2,9 @@
 ## Design Recreation with CSS/SASS and Design Systems
 
 In this activity, you will embark on the task of recreating a design in both desktop and mobile formats, which we have designed in Figma. To ensure the success of the activity, you will need to replicate this same design using CSS/SASS first, then Bootstrap 3, and finally Material Design. 
-This means you have to finish with three different folders, each containing the design implemented in one of the specified methods.
+
+*This means you have to finish with three different folders, each containing the design implemented in one of the specified methods.*
+
 First, analyze carefully the provided design in Figma and try to recreate it with as much detail as possible. Observe how the design is structured in terms of its layout for both the desktop and mobile versions. 
 
 Steps you should follow:
